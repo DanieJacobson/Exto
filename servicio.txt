@@ -1,3 +1,4 @@
 console.log("borrar");
 falta el pull
 haciendo el pull
+cosas pasaron en estos 10 minutos, se incendio algo enfrente tuyo
